@@ -16,6 +16,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |#2325, 183*Peters|Colors Ash|2.2.0-dev|nl, us|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>||||
+| [Kamarinologio](https://genealogy.kamarina.gr/) |#7509, Kamarina - Preveza genealogy forest|Rural|2.1.15|gr, us, de, sv|
 | [Adelsgeschlechter](https://www.verwandten.info/genealogien/familienbuecher) |#9931, 317*Liechtenstein, embedded in Joomla|Xenea|2.1.15|de|
 | [Altvater in Oberschwaben](https://micha-a.info/micgen) |#4633, 187*Altvater|JustLight| 2.1.15 | de |
 | [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.15|no|
