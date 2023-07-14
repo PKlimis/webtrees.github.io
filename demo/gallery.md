@@ -71,6 +71,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) ||webtrees|2.0.17|au|
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) ||JustLight|2.0.25|it|
 | [M Steve Todd’s family tree](https://webtrees.mstevetodd.com) ||JustLight|2.0.15|us|
+| [Kamarinologio](https://genealogy.kamarina.gr) ||Rural|2.1.15|gr, us, de, sv|
 | [The Bournias family tree](http://webtrees.bournias.net) ||minimal|2.0.25|gr|
 | [睢宁王氏家族网](https://www.snwsjz.com) |some other modifications|Wang (Custom)|2.0.19|cn|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
